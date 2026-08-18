@@ -1,68 +1,70 @@
-# 👋 Hi, I'm Fatah
+# Fatah
 
-### 🚀 Digital Transformation & Strategic Intelligence
-### 💡 Empowering Data-Driven Decisions
-### 🤖 With Insights, AI, & Innovation
-### 🏗️ Founder @ iLabs
+**Digital Transformation · Strategic Intelligence · AI · Innovation**
 
----
+Empowering data-driven decisions through **insights, artificial intelligence, and innovation**.
 
-## 🧠 About Me
-
-I work at the intersection of **Digital Transformation, Strategic Intelligence, Data, Artificial Intelligence, and Innovation**.
-
-My mission is to transform **data into insights, insights into intelligence, and intelligence into strategic decisions**.
-
-I am passionate about building intelligent solutions that combine **research, technology, data, and AI** to create meaningful and measurable impact.
+Founder of **[iLabs](https://ilabs.id/)** — Impact Innovation Labs.
 
 ---
 
-## 🚀 What I Do
+## About
 
-- 🚀 **Digital Transformation**
-- 🧠 **Strategic Intelligence**
-- 📊 **Data Science & Analytics**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- ✨ **Generative AI & AI Agents**
-- 💡 **Digital Innovation**
-- 💻 **Information Systems & Computing**
-- 📈 **Business Intelligence & Decision Support**
-- 🔬 **Research & Applied Technology**
-- 🏗️ **Innovation & Venture Building**
+I work at the intersection of **digital transformation, strategic intelligence, data, artificial intelligence, and innovation**.
+
+My work focuses on turning complex data and emerging technologies into **meaningful insights, intelligent solutions, and strategic value**.
+
+I am particularly interested in how technology can be applied not only to solve technical problems, but also to support **better decisions, organizational transformation, research, and innovation**.
 
 ---
 
-## 🏗️ Founder of iLabs
+## Areas of Focus
 
-**iLabs** is an innovation initiative exploring the intersection of:
-
-**Technology × Data × Artificial Intelligence × Strategic Intelligence × Innovation**
-
-The vision is simple:
-
-> **Transform ideas into intelligent solutions and data into strategic value.**
-
----
-
-## 🔬 Research & Innovation Focus
-
-I focus on transforming **research, data, and emerging technologies into intelligent solutions and strategic value**.
-
-### 🎯 Focus Areas
-
-`Digital Transformation` · `Strategic Intelligence` · `Artificial Intelligence` · `Data Science` · `Digital Innovation` · `Decision Support Systems`
-
-### 🔭 Exploring
-
-`Generative AI` · `AI Agents` · `Large Language Models` · `Intelligent Systems` · `Data Intelligence` · `AI-powered Decision Making` · `Technology Strategy`
-
-### 🏗️ Building
-
-`iLabs` · `AI-powered Solutions` · `Data-driven Platforms` · `Research Prototypes` · `Digital Innovation Initiatives`
+- Digital Transformation
+- Strategic Intelligence
+- Artificial Intelligence
+- Data Science & Analytics
+- Generative AI
+- Intelligent Systems
+- Decision Intelligence
+- Business Intelligence
+- Information Systems
+- Digital Innovation
+- Research & Applied Technology
 
 ---
 
-## 💭 My Philosophy
+## iLabs
+
+**[iLabs — Impact Innovation Labs](https://ilabs.id/)** is an **open innovation and research organization** focused on exploring the intersection of technology, research, intelligence, data, and innovation.
+
+At iLabs, the emphasis is on transforming **ideas into solutions, research into impact, and technology into strategic value**.
+
+**Technology · Research · Data · AI · Intelligence · Innovation**
+
+Learn more at **[ilabs.id](https://ilabs.id/)**.
+
+---
+
+## Research & Innovation
+
+My current interests include:
+
+**Artificial Intelligence**  
+Generative AI, AI agents, large language models, intelligent systems, and AI-powered applications.
+
+**Data & Intelligence**  
+Data analytics, data intelligence, strategic intelligence, business intelligence, and decision intelligence.
+
+**Digital Transformation**  
+Digital strategy, technology adoption, organizational transformation, and technology-enabled innovation.
+
+**Research & Development**  
+Applied research, research prototypes, experimental systems, and translating research into practical solutions.
+
+---
+
+## Philosophy
 
 > **Data provides evidence.**  
 > **Intelligence provides meaning.**  
@@ -71,40 +73,35 @@ I focus on transforming **research, data, and emerging technologies into intelli
 
 ---
 
-## 🤝 Let's Collaborate
+## Collaboration
 
-I'm open to collaboration in:
+I am interested in collaborating on:
 
-- 🔬 Research & Applied Research
-- 🤖 AI & Machine Learning
-- 📊 Data & Analytics
-- 🚀 Digital Transformation
-- 🧠 Strategic Intelligence
-- 💡 Technology Innovation
-- 🏗️ AI & Digital Ventures
-
----
-
-## ⚡ Core Interests
-
-`Digital Transformation` · `Strategic Intelligence` · `Artificial Intelligence` · `Data Science` · `Generative AI` · `AI Agents` · `Decision Intelligence` · `Information Systems` · `Digital Innovation`
+- Research and applied research
+- Artificial intelligence and data
+- Digital transformation
+- Strategic intelligence
+- Intelligent decision-support systems
+- Technology and digital innovation
+- Research and innovation projects
+- AI-powered products and platforms
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-<p align="left">
+<p>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://ilabs.id/">
+    <img src="https://img.shields.io/badge/iLabs-Impact%20Innovation%20Labs-333333?style=flat-square" alt="iLabs">
   </a>
 </p>
 
 ---
 
-### 🚀 Build with Data. Think with Intelligence. Innovate with AI.
-
-**Fatah**  
-*Digital Transformation • Strategic Intelligence • AI • Innovation • iLabs*
+**Build with data. Think with intelligence. Innovate with AI.**
