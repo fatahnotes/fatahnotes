@@ -1,13 +1,4 @@
 # Fatah
-
-🚀 **Digital Transformation · Strategic Intelligence · AI · Innovation**
-
-💡 Empowering data-driven decisions through **insights, artificial intelligence, and innovation**.
-
-🏗️ Founder of **[iLabs](https://ilabs.id/)** — Impact Innovation Labs.
-
----
-
 ## 🧠 About
 
 I work at the intersection of **digital transformation, strategic intelligence, data, artificial intelligence, and innovation**.
@@ -15,19 +6,6 @@ I work at the intersection of **digital transformation, strategic intelligence, 
 My work focuses on turning complex data and emerging technologies into **meaningful insights, intelligent solutions, and strategic value**.
 
 I am particularly interested in how technology can be applied not only to solve technical problems, but also to support **better decisions, organizational transformation, research, and innovation**.
-
-I am interested in collaborating on:
-
-- 🔬 Research and applied research
-- 🤖 Artificial intelligence and data
-- 🚀 Digital transformation
-- 🧠 Strategic intelligence
-- 💡 Intelligent decision-support systems
-- 🌐 Technology and digital innovation
-- 🧪 Research and innovation projects
-- 🏗️ AI-powered products and platforms
-
----
 
 ## 🛠️ Interests & Technologies
 
@@ -57,8 +35,6 @@ I am interested in collaborating on:
 </p>
 
 ---
-
-### 🚀 Build with data. Think with intelligence. Innovate with AI.
 
 **Fatah**  
 *Digital Transformation · Strategic Intelligence · AI · Innovation · iLabs*
