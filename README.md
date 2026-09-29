@@ -30,8 +30,3 @@ I am particularly interested in how technology can be applied not only to solve 
     <img src="https://img.shields.io/badge/iLabs-Impact%20Innovation%20Labs-333333?style=flat-square" alt="iLabs">
   </a>
 </p>
-
----
-
-**Fatah**  
-*Digital Transformation · Strategic Intelligence · AI · Innovation · iLabs*
