@@ -1,6 +1,3 @@
-# Fatah
-## 🧠 About
-
 I work at the intersection of **digital transformation, strategic intelligence, data, artificial intelligence, and innovation**.
 
 My work focuses on turning complex data and emerging technologies into **meaningful insights, intelligent solutions, and strategic value**.
